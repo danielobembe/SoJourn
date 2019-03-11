@@ -3,3 +3,4 @@ venv
 tasks.txt
 TO-DOs.txt
 __pycache__
+site.db
